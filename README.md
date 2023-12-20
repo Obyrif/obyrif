@@ -74,4 +74,6 @@
 <br />
 
 ----
-![](https://komarev.com/ghpvc/?obirf=obyrif-obyrif&label=PROFILE+VIEWS)
+<div>
+    <img src="https://komarev.com/ghpvc/?username=Obyrif&style=flat-square&color=blue" alt=""/>
+  </div>
