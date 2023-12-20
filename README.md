@@ -36,13 +36,6 @@
 
 ## Connect with me  
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimappm@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/dimapm)
-  
-
-<br/>  
-
-<br/>  
-
-<br/>  
 
 ----
 <div>
