@@ -74,4 +74,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.obyrif.dev/" target="_blank">Github Profilinator</a></div>
+![](https://komarev.com/ghpvc/?obirf=obyrif-obyrif&label=PROFILE+VIEWS)
